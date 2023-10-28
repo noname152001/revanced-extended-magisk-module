@@ -1,4 +1,3 @@
-parallel-jobs = 1
 logging-to-file = true        # enables logging of every patch process to a seperate file
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 
@@ -13,7 +12,7 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 excluded-patches = "'Custom branding YouTube name' 'Custom branding icon Revancify blue' 'Custom package name' 'Theme'"
-included-patches = "'Add splash animation' 'Disable landscape mode' 'Enable debug logging' 'Force hide player button background' 'Force premium heading' 'Hide double tap overlay filter' 'MaterialYou'"
+included-patches = "'Add splash animation' 'Disable landscape mode' 'Enable debug logging' 'Force hide player button background' 'Force premium heading' 'Hide double tap overlay filter'"
 rv-brand = "ReVanced Extended"
 build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
