@@ -15,4 +15,5 @@ included-patches = "'Add splash animation' 'Disable landscape mode' 'Enable debu
 excluded-patches = "'Custom branding icon Revancify Blue' 'Custom branding name YouTube' 'Custom package name' 'Theme'"
 rv-brand = "ReVanced Extended"
 build-mode = "module"
+version = "18.46.43"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
