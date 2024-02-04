@@ -8,11 +8,11 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube-Extended]
 app-name = "YouTube"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
+patches-source = "YT-Advanced/ReX-patches"
+integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
-included-patches = "'Add splash animation' 'Enable debug logging' 'Enable song search' 'Hide voice search button' 'Premium heading'"
-excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom package name' 'Hide previous next button' 'Theme'"
+included-patches = "'Add splash animation' 'Enable debug logging' 'Hide voice search button'"
+excluded-patches = "'Custom branding heading' 'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom package name' 'Theme'"
 rv-brand = "ReVanced Extended"
 build-mode = "module"
 version = "auto"
