@@ -15,5 +15,5 @@ included-patches = "'Add splash animation' 'Enable debug logging' 'Hide voice se
 excluded-patches = "'Custom branding heading' 'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom package name' 'Theme'"
 rv-brand = "ReVanced Extended"
 build-mode = "module"
-version = "auto"
+version = "19.04.37"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
