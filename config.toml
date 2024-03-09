@@ -8,8 +8,8 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube-Extended]
 app-name = "YouTube"
-patches-source = "YT-Advanced/ReX-patches"
-integrations-source = "YT-Advanced/ReX-integrations"
+patches-source = "rufusin/revanced-patches"
+integrations-source = "rufusin/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 included-patches = "'Add splash animation' 'Enable debug logging' 'Hide animated button background' 'Hide double tap overlay filter' 'Hide double tap to like animations' 'Hide player button background' 'Shorts outline button'"
 excluded-patches = "'Custom branding heading' 'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom package name' 'Theme'"
