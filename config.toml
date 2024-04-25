@@ -9,9 +9,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 [YouTube-Extended]
 app-name = "YouTube"
 patches-source = "anddea/revanced-patches"
-patches-version = "v2.224.0-dev.16"
 integrations-source = "anddea/revanced-integrations"
-integrations-version = "v0.151.0-dev.12"
 included-patches = "'Enable debug logging'"
 excluded-patches = "'Custom package name' 'Tuck away preferences' 'Theme'"
 rv-brand = "ReVanced Extended"
