@@ -8,10 +8,9 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube-Extended]
 app-name = "YouTube"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
-included-patches = "'Change player flyout panel toggles' 'Enable debug logging' 'Hide player buttons background' 'Hide player chapters' 'Spoof player parameters'"
-excluded-patches = "'Custom package name' 'Hide voice search button' 'Theme' 'Tuck away preferences' 'Visual preferences icons'"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom package name' 'Theme'"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 version = "auto"
