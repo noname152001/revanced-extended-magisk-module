@@ -10,8 +10,7 @@ remove-rv-integrations-checks = true # remove checks from the revanced integrati
 
 [YouTube-Extended]
 app-name = "YouTube"
-patches-source = "anddea/revanced-patches"
-patches-version = "dev"
+patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
