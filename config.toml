@@ -10,11 +10,11 @@ remove-rv-integrations-checks = true # remove checks from the revanced integrati
 
 [YouTube-Extended]
 app-name = "YouTube"
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
+patches-source = "MorpheApp/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "Morphe"
 build-mode = "both"
-included-patches = "'Custom header for YouTube' 'Force hide player buttons background' 'Hide Shorts dimming' 'Hide Shorts dimming' 'Hide animated button background'"
-excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Custom package name' 'Theme' 'Visual preferences icons for YouTube'"
+patches-version = "'dev'"
+cli-version = "'dev'"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
